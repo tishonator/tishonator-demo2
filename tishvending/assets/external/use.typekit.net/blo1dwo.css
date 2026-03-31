@@ -1,0 +1,59 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * area-normal:
+ *   - http://typekit.com/eulas/0000000000000000774b9fbd
+ *   - http://typekit.com/eulas/0000000000000000774b9fc8
+ * campaign-serif:
+ *   - http://typekit.com/eulas/00000000000000007736c70c
+ *   - http://typekit.com/eulas/00000000000000007736c70e
+ *   - http://typekit.com/eulas/00000000000000007736c70f
+ *   - http://typekit.com/eulas/00000000000000007736c710
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-06-01 09:39:24 UTC"}*/
+
+@import url("../p.typekit.net/p_19692030.css");
+
+@font-face {
+font-family:"campaign-serif";
+src:url("af/fb5173/00000000000000007736c70c/30/l_e1961e20") format("woff2"),url("af/fb5173/00000000000000007736c70c/30/d_e1961e20") format("woff"),url("af/fb5173/00000000000000007736c70c/30/a_e1961e20") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"campaign-serif";
+src:url("af/ecdbb0/00000000000000007736c70e/30/l_652f71be") format("woff2"),url("af/ecdbb0/00000000000000007736c70e/30/d_652f71be") format("woff"),url("af/ecdbb0/00000000000000007736c70e/30/a_652f71be") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"campaign-serif";
+src:url("af/91ccec/00000000000000007736c70f/30/l_fdccd016") format("woff2"),url("af/91ccec/00000000000000007736c70f/30/d_fdccd016") format("woff"),url("af/91ccec/00000000000000007736c70f/30/a_fdccd016") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"campaign-serif";
+src:url("af/e91133/00000000000000007736c710/30/l_e003db55") format("woff2"),url("af/e91133/00000000000000007736c710/30/d_e003db55") format("woff"),url("af/e91133/00000000000000007736c710/30/a_e003db55") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"area-normal";
+src:url("af/911b4f/0000000000000000774b9fbd/30/l_e1961e20") format("woff2"),url("af/911b4f/0000000000000000774b9fbd/30/d_e1961e20") format("woff"),url("af/911b4f/0000000000000000774b9fbd/30/a_e1961e20") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"area-normal";
+src:url("af/6f9a29/0000000000000000774b9fc8/30/l_5bbaa12d") format("woff2"),url("af/6f9a29/0000000000000000774b9fc8/30/d_5bbaa12d") format("woff"),url("af/6f9a29/0000000000000000774b9fc8/30/a_5bbaa12d") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-campaign-serif { font-family: "campaign-serif",sans-serif; }
+.tk-area-normal { font-family: "area-normal",sans-serif; }

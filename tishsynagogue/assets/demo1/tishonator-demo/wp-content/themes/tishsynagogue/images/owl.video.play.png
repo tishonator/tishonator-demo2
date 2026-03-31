@@ -1,0 +1,11 @@
+<br />
+<b>Fatal error</b>:  Uncaught Error: Class 'WC_Payment_Gateway' not found in /home/customer/www/hellloexpert.com/public_html/wp-content/plugins/paddle-woocommerce-3-master/models/gateway.php:3
+Stack trace:
+#0 /home/customer/www/hellloexpert.com/public_html/wp-content/plugins/paddle-woocommerce-3-master/paddle-woo-checkout.php(88): include_once()
+#1 /home/customer/www/hellloexpert.com/public_html/wp-includes/class-wp-hook.php(308): Paddle_WC-&gt;on_wp_plugins_loaded('')
+#2 /home/customer/www/hellloexpert.com/public_html/wp-includes/class-wp-hook.php(332): WP_Hook-&gt;apply_filters(NULL, Array)
+#3 /home/customer/www/hellloexpert.com/public_html/wp-includes/plugin.php(517): WP_Hook-&gt;do_action(Array)
+#4 /home/customer/www/hellloexpert.com/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#5 /home/customer/www/hellloexpert.com/public_html/wp-config.php(79): require_once('/home/customer/...')
+#6 /home/customer/www/hellloexpert.com/public_html/wp-load.php(50): require_once('/home/customer/...')
+#7 /home/customer/www/hellloexpert.c in <b>/home/customer/www/hellloexpert.com/public_html/wp-content/plugins/paddle-woocommerce-3-master/models/gateway.php</b> on line <b>3</b><br />
